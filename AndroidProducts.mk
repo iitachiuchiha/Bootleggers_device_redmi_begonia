@@ -15,4 +15,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/potato_begonia.mk
+    $(LOCAL_DIR)/bootleg_begonia.mk
+
+COMMON LUNCH CHOICES := \
+    bootleg_begonia-userdebug \
+    bootleg_begonia-user \
+    bootleg_begonia-eng
