@@ -141,3 +141,5 @@ BOARD_PLAT_PRIVATE_SEPOLICY_DIR += $(DEVICE_PATH)/sepolicy/private
 
 # Inherit from the proprietary version
 -include vendor/redmi/begonia/BoardConfigVendor.mk
+
+SELINUX_IGNORE_NEVERALLOWS := true

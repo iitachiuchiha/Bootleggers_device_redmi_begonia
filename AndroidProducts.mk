@@ -15,4 +15,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/potato_begonia.mk
+    $(LOCAL_DIR)/zenx_begonia.mk
+
+COMMON LUNCH CHOICES := \
+    zenx_begonia-user \
+    zenx_begonia-userdebug \
+    zenx_begonia-eng
