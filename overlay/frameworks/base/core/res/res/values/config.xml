@@ -481,7 +481,4 @@
     <integer-array name="config_keyboardTapVibePattern">
         <item>35</item>
     </integer-array>
-    <!-- Sets the package name for device parts-->
-    <string name="config_device_parts_package_name" translatable="false">com.redmi.xiaomiparts</string>
-    <string name="config_device_parts_package_activity" translatable="false">com.redmi.xiaomiparts.DeviceSettingsActivity</string>
 </resources>
